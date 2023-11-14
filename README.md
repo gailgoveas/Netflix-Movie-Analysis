@@ -11,7 +11,7 @@ This Jupyter Notebook provides a detailed analysis of Netflix movies, utilizing 
 - **Data Filtering**: Creating subsets of the DataFrame to analyze movies by title, country, genre, release year, and duration.
 - **Visualization**: Generating scatter plots to visualize the duration of movies over the years and analyzing genre distribution using color coding.
 
-![Movie duration by year of release](/Users/gail/Documents/Github/NetflixMovies/Movieanalysis.png)
+![Movie duration by year of release](Movieanalysis.png)
 
 ## Inferences from the Analysis
 
